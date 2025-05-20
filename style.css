@@ -1,3 +1,22 @@
-body {
+h1 {
+  
+  color: purple;
+  text-decoration-line: underline;
+  letter-spacing: 1px;
+  text-shadow: 3px 2px 7px yellow;
+  
+}
 
+body {
+  background-color: wheat;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+}
+
+img:hover {
+  width:25%;
+  height: 25%;
 }
