@@ -20,3 +20,30 @@ img:hover {
   width:25%;
   height: 25%;
 }
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 20px 60px;
+  float: left;
+  
+  
+  
+}
+
+li a:hover {
+  background-color: wheat;
+  color: black;
+}
+
